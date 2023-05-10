@@ -1,1 +1,10 @@
-# teste_python_kmeans_svm
+#Em contrução
+
+
+#Recomendador Leads Kmeans
+
+#execute o projeto
+
+#py -3 -m venv venv
+#venv/Scripts/activate
+#pip install -r requirements.txt
